@@ -4,4 +4,8 @@ Stefna samtakanna er að auka gagnsæi gagnvart meðlimum og er opinberun á fun
 
 ## [Aðalfundir](/Aðalfundir)
 
+- [30. maí 2017](/Aðalfundir/2017-05-30.md)
+
 ## [Stjórnarfundir](/Stjórnarfundir)
+
+- [17. ágúst 2017](/Stjórnarfundir/2017-08-17.md)
