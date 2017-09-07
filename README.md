@@ -5,6 +5,7 @@ Stefna samtakanna er að auka gagnsæi gagnvart meðlimum og er opinberun á fun
 ## [Aðalfundir](/Aðalfundir)
 
 - [30. maí 2017](/Aðalfundir/2017-05-30.md)
+- [8. september 2017 – aðalfundur stjórnar](/Aðalfundir/2017-09-08.md)
 
 ## [Stjórnarfundir](/Stjórnarfundir)
 
