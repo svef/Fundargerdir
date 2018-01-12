@@ -15,3 +15,4 @@ Stefna samtakanna er að auka gagnsæi gagnvart meðlimum og er opinberun á fun
 - [23. nóvember 2017](/Stjórnarfundir/2017-11-23.md)
 - [21. desember 2017](/Stjórnarfundir/2017-12-21.md)
 - [4. janúar 2018](/Stjórnarfundir/2018-01-04.md)
+- [10. janúar 2018](/Stjórnarfundir/2018-01-10.md)
